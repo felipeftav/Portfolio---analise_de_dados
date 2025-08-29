@@ -29,7 +29,7 @@ Aqui compartilho meus projetos que demonstram habilidades em manipulação de da
 - **Descrição:** Este projeto realiza uma análise exploratória dos dados dos inscritos no Vestibular do 1º Semestre de 2025 das Faculdades de Tecnologia (Fatec) do Estado de São Paulo.
 - **Tecnologias:** pandas, numpy, matplotlib, seaborn
 - **Objetivo:** Analisar perfil dos inscritos no vestibular.
-- **Link:** [Analise_Exploratoria_Vestibular_Fatec_20251]()
+- **Link:** [Analise_Exploratoria_Vestibular_Fatec_20251](https://github.com/felipeftav/Portfolio_analise_de_dados/tree/main/Analise_Exploratoria_Vestibular_Fatec_20251)
 
 ---
 
