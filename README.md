@@ -25,6 +25,12 @@ Aqui compartilho meus projetos que demonstram habilidades em manipulação de da
 - **Objetivo:** Avaliar e visualizar o tempo de uso de aplicativos em dispositivos móveis.
 - **Link:** [Screen_Time_PI](https://github.com/felipeftav/Portfolio_analise_de_dados/tree/main/Screen_Time_PI)
 
+### 4. Analise Exploratória do Vestibular Fatec de 2025 - 1º Semestre
+- **Descrição:** Este projeto realiza uma análise exploratória dos dados dos inscritos no Vestibular do 1º Semestre de 2025 das Faculdades de Tecnologia (Fatec) do Estado de São Paulo.
+- **Tecnologias:** pandas, numpy, matplotlib, seaborn
+- **Objetivo:** Analisar perfil dos inscritos no vestibular.
+- **Link:** [Analise_Exploratoria_Vestibular_Fatec_20251]()
+
 ---
 
 ## 📈 Tecnologias utilizadas
