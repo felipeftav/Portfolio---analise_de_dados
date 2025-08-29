@@ -19,7 +19,7 @@ Aqui compartilho meus projetos que demonstram habilidades em manipulação de da
 - **Objetivo:** Analisar e prever tendências de ações utilizando dados históricos.
 - **Link:** [MachineLearningAcoes](https://github.com/felipeftav/Portfolio_analise_de_dados/tree/main/MachineLearningAcoes)
 
-### 3. Screen Time PI
+### 3. Screen Time PI (Projeto Integrador 1 - Fatec Sebrae)
 - **Descrição:** Análise do tempo de tela em dispositivos móveis, identificando padrões de uso.
 - **Tecnologias:** Python, pandas, matplotlib
 - **Objetivo:** Avaliar e visualizar o tempo de uso de aplicativos em dispositivos móveis.
