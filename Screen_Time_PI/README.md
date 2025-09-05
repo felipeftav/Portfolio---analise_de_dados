@@ -58,7 +58,7 @@ Para executar este projeto localmente, siga os passos abaixo:
     Abra e execute o notebook Jupyter localizado em `analysis/Screen_Time_PI.ipynb`.
 ## 📄 Artigo e Autores
 
-📄 **[Clique aqui para ler o artigo completo em PDF](analise-tempo-de-tela/docs/Artigo_Tempo_de_Tela_Ciencia_de_Dados.pdf)**
+📄 **[Clique aqui para ler o artigo completo em PDF](Artigo_Tempo_de_Tela_Ciencia_de_Dados.pdf)**
 
 O trabalho científico, com a metodologia e a discussão detalhada dos resultados, foi desenvolvido por:
 
@@ -67,3 +67,4 @@ O trabalho científico, com a metodologia e a discussão detalhada dos resultado
 * Thiago Teles Silva
 
 Sob a orientação da Prof.ª Estefania Angélico Pianoski Arata, para o curso de Ciência de Dados para Negócios da FATEC Sebrae (Junho de 2025).
+
