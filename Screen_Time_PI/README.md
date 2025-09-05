@@ -29,8 +29,8 @@ Em suma, embora as tecnologias digitais ofereçam benefícios, seu uso indiscrim
 ## 📈 Visualizações em Destaque
 
 <p align="center">
-  <img src="analise-tempo-de-tela/images/faixaetaria.png" alt="faixa etaria" width="48%">
-  <img src="analise-tempo-de-tela/images/produtividade.png" alt="produtividade" width="48%">
+  <img src="images/faixaetaria.png" alt="faixa etaria" width="48%">
+  <img src="images/produtividade.png" alt="produtividade" width="48%">
 </p>
 
 ## 🛠️ Ferramentas e Bibliotecas
